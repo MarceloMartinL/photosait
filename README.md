@@ -1,24 +1,5 @@
-# README
+# Photosait - Third Party API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+**Description:** Remember way back in the warm-up when you played with the Flickr API? Now it’s time for you to actually use it. Huzzah! You’ll create a simple photo widget that allows you to display photos from your Flickr feed (or someone else’s). We’ll rely on a tutorial for much of the heavy lifting but the principles of what you do here will be repeatable for use with other APIs.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Project Source: https://www.theodinproject.com/courses/ruby-on-rails/lessons/apis
